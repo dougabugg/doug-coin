@@ -13,3 +13,9 @@ In addition, Doug Coin boasts a number of technical improvements over Bitcoin an
 
 Yes, just as Bitcoin or any other cryptocurrency is a real currency. Doug Coin is based on Blockchain Technology and Cryptography to secure transactions,
 but the protocol has been modified and optimized to improve performance and security unlike any currently existing cryptocurrency.
+
+## Is this a satire/parody?
+
+Also yes. Figured I would be honest about this, since most of my jokes here are technical in nature.
+The ultimate goal of this project is to discredit all proof-of-work Blockchain technologies, including cryptocurrencies and NFTs.
+*Get rekted, "cryptobros".*
