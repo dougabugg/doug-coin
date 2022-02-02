@@ -8,6 +8,7 @@ In addition, Doug Coin boasts a number of technical improvements over Bitcoin an
 - Ability to recycle old blocks, keeping the size of the distributed blockchain to a reasonable size
 - New and Improved blockchain scalability and performance, with transaction confirmation being almost instant.
 - Minting of new coins is solely controlled by Doug (owner and founder), and thus will never suffer from unfavorable conditions like inflation or exchange rate fluctuation.
+- After the IPO/ICO, the initial exchange rate will be determined by Doug flipping a coin several times and then pulling a number out of a hat. 
 
 ## Is this real?
 
@@ -17,5 +18,5 @@ but the protocol has been modified and optimized to improve performance and secu
 ## Is this a satire/parody?
 
 Also yes. Figured I would be honest about this, since most of my jokes here are technical in nature.
-The ultimate goal of this project is to discredit all proof-of-work Blockchain technologies, including cryptocurrencies and NFTs.
-*Get rekted, "cryptobros".*
+The ultimate goal of this project is to discredit all proof-of-work blockchain technologies, including cryptocurrencies and NFTs.
+*git rekted, "cryptobros".*
